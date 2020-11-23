@@ -1,6 +1,12 @@
 ### I am Arize
+<style>
+.paragraph{
+  color: green;
+ }
+</style>
 
-- Full + Mern stack Developer
+<p class="paragraph">Full + Mern stack Developer</p>
+
 <!--
 
 - 🔭 I’m currently working on ...
