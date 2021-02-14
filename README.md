@@ -1,8 +1,7 @@
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/526362551366320166/a_15643cbc442c6583799223fc075266c4.gif?size=128">
-    <br />
-    <img align="center" width="26px" src="https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg" />
 </p>
+
 <h1 align="center">Arize#0001</h1>
 
 ### Languages and Frameworks:
@@ -16,18 +15,17 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Java" width="26px" src="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
 
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 </p>
 
-<br/>
 <br/>
 
 ### Currently Learning
 
 <p>
 <img align="left" alt="cSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 </p>
 
 <br />
