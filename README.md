@@ -1,6 +1,6 @@
 <p align="center">
     <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/526362551366320166/a_15643cbc442c6583799223fc075266c4.gif?size=128">
-    <img align="center" src="https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg" />
+    <img align="center" width="26px" src="https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg" />
 </p>
 <h1 align="center">Arize#0001</h1>
 
