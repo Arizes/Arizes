@@ -32,4 +32,4 @@
 <br />
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arizes&count_private=true&show_icons=true&include_all_commits=true&bg_color=161b22&icon_color=blue&hide_border=true&text_color=38bdae)
+![Github stats](https://github-readme-stats.vercel.app/api?username=arizes&count_private=true&show_icons=true&include_all_commits=true&bg_color=0d1117&icon_color=blue&hide_border=true&text_color=38bdae)
