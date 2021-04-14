@@ -1,8 +1,8 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://cdn.discordapp.com/avatars/526362551366320166/a_15643cbc442c6583799223fc075266c4.gif?size=128">
+    <img style="border-radius: 100px" src="https://cdn.discordapp.com/avatars/526362551366320166/b281f0518ed315e864bad24d88152839.png?size=128">
 </p>
 
-<h1 align="center">Arize#0001</h1>
+<h1 align="center">Arize#8581</h1>
 
 ### Languages and Frameworks:
 
