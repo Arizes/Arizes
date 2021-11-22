@@ -22,6 +22,7 @@ Hello there! My username is Arize, I'm a freelance mern stack web dev
 <img alt="MongoDB" height="26px" src="https://img.shields.io/badge/MongoDb-282C34?logo=mongodb&logoColor=47A248" />
 <img alt="VSCode" height="26px" src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" />
 <img alt="Express" height="26px" src="https://img.shields.io/badge/Express-282c34?logo=express&logoColor=FFFFF" />
+<img alt="Solidity" height="26px" src="https://img.shields.io/static/v1?label=solidity&message=v0.6.12&color=2ea44f&logo=solidity" />
     
 ## 📚 Currently Learning
     
