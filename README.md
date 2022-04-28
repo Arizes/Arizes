@@ -1,14 +1,14 @@
 # Welcome, I'm Arize
 
-Hello there! My username is Arize, I'm a freelance mern stack web dev
+Hello there! My username is Arize, I'm a blockchain mern stack web dev
 
 <div>
 
 ## 🧱 Currently working on
 <ul>
-    <li>SchoolCord</li>
+    <li>Legends Of The Metaverse</li>
     <ul>
-        <li>A web based app for classes to be able to easily hand in work, interact with other students, have low ping live lessons, containing a combination of features from google classroom, google meets and discord</li>
+        <li>An action-RPG, LOTM is a hybrid openworld and turn-based arena combat game. Collect, Battle and Earn, all powered by the Ethereum Blockchain.</li>
     </ul>
 </ul>
 
