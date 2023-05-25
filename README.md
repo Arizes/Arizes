@@ -6,9 +6,9 @@ Software Engineer
 
 ## 🧱 Currently working on
 <ul>
-    <li>Legends Of The Metaverse</li>
+    <li>L E G I O N | ESPORTS</li>
     <ul>
-        <li>An action-RPG, LOTM is a hybrid openworld and turn-based arena combat game. Collect, Battle and Earn, all powered by the Ethereum Blockchain.</li>
+        <li>An action-RPG, LEGION is a hybrid openworld and turn-based arena combat game. Collect, Battle and Earn, all powered by the Ethereum Blockchain.</li>
     </ul
     <br/>
     <li>University Timetable App</li>
